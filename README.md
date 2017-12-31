@@ -1,4 +1,4 @@
-Desktop - Android Smartwatch sensor data CVT
+PC - Android Smartwatch sensor data CVT
 =============
 CVT: collection and visualization tool
 
