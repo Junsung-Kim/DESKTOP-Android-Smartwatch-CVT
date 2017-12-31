@@ -5,7 +5,7 @@ CVT: collection and visualization tool
 ## Android smartwatch sensor data collection and visualization tool. - Desktop Part
 
 If you are looking for a tool to see the sensor values from the Android Smartwatch in graph form,
-I recommend using this project on the PC-side and the Wear-side project(https://github.com/Junsung-Kim/DESKTOP-Android-Smartwatch-CVT).
+I recommend using this project on the PC-side and the [Wear-side project](https://github.com/Junsung-Kim/Wear-Android-Smartwatch-CVT "Wear-side project").
 
 Author: Jun Sung Kim (jskim.uoscs@gmail.com) 
 
