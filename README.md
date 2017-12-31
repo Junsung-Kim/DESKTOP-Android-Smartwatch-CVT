@@ -19,3 +19,5 @@ Author: Jun Sung Kim (jskim.uoscs@gmail.com)
  - You can connect one or more Android Smartwatches to your computer to view the sensor values of each watch.
  
 ### Screenshots
+
+![Screenshot.PNG](https://github.com/Junsung-Kim/DESKTOP-Android-Smartwatch-CVT/blob/master/Screenshot.PNG "Screenshot.PNG")
