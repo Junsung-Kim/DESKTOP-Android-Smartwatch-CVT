@@ -20,4 +20,4 @@ Author: Jun Sung Kim (jskim.uoscs@gmail.com)
  
 ### Screenshots
 
-![Screenshot.PNG](https://github.com/Junsung-Kim/DESKTOP-Android-Smartwatch-CVT/blob/master/Screenshot.PNG "Screenshot.PNG")
+![Screenshot.PNG](https://github.com/Junsung-Kim/PC-Android-Smartwatch-CVT/blob/master/Screenshot.PNG "Screenshot.PNG")
